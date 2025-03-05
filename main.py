@@ -77,7 +77,7 @@ def remove_book():
     new_books = [book for book in books if book['ISBN'] != isbn]
     
     if len(new_books) == len(books):
-        print("Book not found!")
+        print("Books not found!")
     else:
         save_books(new_books)
         print("Book removed successfully!")

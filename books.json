@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "ISBN": "abu123",
+        "Title": "my python book",
+        "Author": "abu nowman kalim",
+        "Genre": "coding",
+        "Price": 1200.0,
+        "Quantity": 100
+    }
+]
